@@ -1,0 +1,13 @@
+.heading{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 10cm;
+}
+.para{
+  color: black;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
